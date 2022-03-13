@@ -172,3 +172,8 @@ li {
     margin-top: 10px;
     text-justify: auto;
 }
+
+a {
+    color: var(--color-w);
+    
+}
